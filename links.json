@@ -40,7 +40,7 @@
     "description": "添加时间: 2025/3/22 13:00:24"
   },
   {
-    "name": "可灵 AI",
+    "name": "可灵AI",
     "url": "https://klingai.kuaishou.com/",
     "showOnHome": true,
     "category": "人工智能",
@@ -64,7 +64,7 @@
     "description": "添加时间: 2025/3/22 12:57:46"
   },
   {
-    "name": "腾讯混元生图",
+    "name": "混元生图",
     "url": "https://image.hunyuan.tencent.com/",
     "showOnHome": false,
     "category": "人工智能",
@@ -72,7 +72,7 @@
     "description": "添加时间: 2025/3/22 13:03:24"
   },
   {
-    "name": "腾讯混元AI视频",
+    "name": "混元视频",
     "url": "https://video.hunyuan.tencent.com/",
     "showOnHome": true,
     "category": "人工智能",
@@ -192,7 +192,7 @@
     "description": "添加时间: 2025/3/22 21:55:59"
   },
   {
-    "name": "星流 - 新一代AI创作工具",
+    "name": "星流AI",
     "url": "https://www.xingliu.art/",
     "showOnHome": true,
     "category": "人工智能",
@@ -240,7 +240,7 @@
     "description": "添加时间: 2025/3/22 19:57:17"
   },
   {
-    "name": "腾讯CODING",
+    "name": "CODING",
     "url": "https://coding.net/",
     "showOnHome": false,
     "category": "开发平台",
@@ -264,8 +264,8 @@
     "description": "添加时间: 2025/3/22 20:19:12"
   },
   {
-    "name": "豆包 MarsCode",
-    "url": "https://www.marscode.cn/?utm_source=advertising&utm_medium=aibot.cn_ug_cpa&utm_term=hw_marscode_aibot&utm_content=home",
+    "name": "豆包",
+    "url": "https://www.marscode.cn,
     "showOnHome": false,
     "category": "开发平台",
     "icon": "",
@@ -496,7 +496,7 @@
     "description": "添加时间: 2025/3/22 20:28:45"
   },
   {
-    "name": "Google 文档",
+    "name": "Google文档",
     "url": "https://workspace.google.com/intl/zh-CN/products/docs/",
     "showOnHome": true,
     "category": "数字办公",
@@ -888,7 +888,7 @@
     "description": "添加时间: 2025/3/22 21:04:49"
   },
   {
-    "name": "Visual Studio Code",
+    "name": "VSCode",
     "url": "https://code.visualstudio.com/",
     "showOnHome": false,
     "category": "软件官网",
