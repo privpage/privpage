@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>天宫起始页</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles/global.css">
+  <script type="module" src="app/app.js"></script>
+</head>
+<body>
+  <!-- 顶部导航 -->
+  <nav class="topnav">
+    <a href="https://github.com" target="_blank">GitHub</a>
+    <a href="https://www.bing.com" target="_blank">Bing</a>
+    <a href="https://www.baidu.com" target="_blank">百度</a>
+    <button id="clear-data" class="nav-button">清除本地数据</button>
+    <button id="menu-toggle" class="menu-toggle">
+      <svg t="1742896762053" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3405" width="24" height="24">
+        <path d="M874.666667 800H149.333333c-17.066667 0-32 14.933333-32 32s14.933333 32 32 32h725.333334c17.066667 0 32-14.933333 32-32s-14.933333-32-32-32zM149.333333 224h725.333334c17.066667 0 32-14.933333 32-32s-14.933333-32-32-32H149.333333c-17.066667 0-32 14.933333-32 32s14.933333 32 32 32zM341.333333 480c-17.066667 0-32 14.933333-32 32s14.933333 32 32 32h512c17.066667 0 32-14.933333 32-32s-14.933333-32-32-32H341.333333z" p-id="3406"></path>
+        <path d="M275.2 684.8c6.4 6.4 14.933333 8.533333 23.466667 8.533333s17.066667-2.133333 23.466666-8.533333c12.8-12.8 12.8-32 0-44.8l-128-128 125.866667-125.866667c12.8-12.8 12.8-32 0-44.8-12.8-12.8-32-12.8-44.8 0l-149.333333 149.333334c-12.8 12.8-12.8 32 0 44.8l149.333333 149.333333z" p-id="3407"></path>
+      </svg>
+    </button>
+  </nav>
+
+  <div class="container">
+    <!-- 时间和日期 -->
+    <div class="time-container">
+      <div id="time" class="time">00:00:00</div>
+      <div id="date" class="date">2023年1月1日 星期一</div>
+    </div>
+
+    <!-- 搜索框 -->
+    <div class="search-container">
+      <form id="search-form">
+        <div class="search-bar">
+          <input type="text" id="search-input" class="search-input" placeholder="百度一下，你就知道">
+          <button type="submit" class="search-button">
+            <svg t="1742896893398" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3875" width="20" height="20">
+              <path d="M945.066667 898.133333l-189.866667-189.866666c55.466667-64 87.466667-149.333333 87.466667-241.066667 0-204.8-168.533333-373.333333-373.333334-373.333333S96 264.533333 96 469.333333 264.533333 842.666667 469.333333 842.666667c91.733333 0 174.933333-34.133333 241.066667-87.466667l189.866667 189.866667c6.4 6.4 14.933333 8.533333 23.466666 8.533333s17.066667-2.133333 23.466667-8.533333c8.533333-12.8 8.533333-34.133333-2.133333-46.933334zM469.333333 778.666667C298.666667 778.666667 160 640 160 469.333333S298.666667 160 469.333333 160 778.666667 298.666667 778.666667 469.333333 640 778.666667 469.333333 778.666667z" p-id="3876"></path>
+            </svg>
+          </button>
+        </div>
+      </form>
+      <div id="search-engines" class="search-engines"></div>
+    </div>
+
+    <!-- 快捷链接 -->
+    <div id="links-container" class="links-container">
+      <!-- 链接将由JavaScript动态生成 -->
+    </div>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+      <p>© <span id="copyright-year">2023</span> 天宫起始页 | <a href="https://github.com" target="_blank">开源项目</a> | <button id="theme-settings" style="background: none; border: none; color: var(--primary-color); cursor: pointer; padding: 0; font: inherit;">主题设置</button> | <button id="import-bookmarks" style="background: none; border: none; color: var(--primary-color); cursor: pointer; padding: 0; font: inherit;">导入书签</button> | <button id="import-json" style="background: none; border: none; color: var(--primary-color); cursor: pointer; padding: 0; font: inherit;">导入JSON</button></p>
+    </footer>
+  </div>
+
+  <!-- 侧边栏 -->
+  <div id="sidebar" class="sidebar">
+    <div class="sidebar-header">
+      <img src="images/user.svg" alt="用户头像">
+      <div class="user-info">
+        <h3>用户名称</h3>
+        <p>个人天宫起始页</p>
+      </div>
+    </div>
+    
+    <!-- 侧边栏搜索 -->
+    <div class="sidebar-search">
+      <input type="text" id="sidebar-search-input" placeholder="搜索书签...">
+    </div>
+    
+    <div id="sidebar-categories">
+      <!-- 分类将由JavaScript动态生成 -->
+    </div>
+  </div>
+
+  <!-- 侧边栏遮罩 -->
+  <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+  <!-- 主题切换按钮 -->
+  <div id="theme-toggle" class="theme-toggle">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+    </svg>
+  </div>
+</body>
+</html> 

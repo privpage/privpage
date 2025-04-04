@@ -1,0 +1,1290 @@
+[
+  {
+    "name": "通义万相",
+    "url": "https://tongyi.aliyun.com/wanxiang/",
+    "showOnHome": true,
+    "category": "人工智能",
+    "icon": "https://alidocs.oss-accelerate.aliyuncs.com/res/oJGq76v5aMRynAKe/img/1b1b81ce-1625-4851-b015-09eb7b99872f.svg",
+    "description": "添加时间: 2025/3/22 12:59:04"
+  },
+  {
+    "name": "Qwen",
+    "url": "https://chat.qwen.ai/",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "https://assets.alicdn.com/g/qwenweb/qwen-webui-fe/0.0.69/favicon.png",
+    "description": "添加时间: 2025/3/22 12:59:16"
+  },
+  {
+    "name": "Kimi",
+    "url": "https://kimi.moonshot.cn/",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:00:11"
+  },
+  {
+    "name": "MiniMax",
+    "url": "https://chat.minimaxi.com/",
+    "showOnHome": true,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:00:19"
+  },
+  {
+    "name": "即梦AI",
+    "url": "https://jimeng.jianying.com/ai-tool/home/",
+    "showOnHome": true,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:00:24"
+  },
+  {
+    "name": "可灵 AI",
+    "url": "https://klingai.kuaishou.com/",
+    "showOnHome": true,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:00:32"
+  },
+  {
+    "name": "腾讯元宝",
+    "url": "https://yuanbao.tencent.com/chat/naQivTmsDa",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:01:59"
+  },
+  {
+    "name": "通义",
+    "url": "https://tongyi.aliyun.com/",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "https://img.alicdn.com/imgextra/i4/O1CN01EfJVFQ1uZPd7W4W6i_!!6000000006051-2-tps-112-112.png",
+    "description": "添加时间: 2025/3/22 12:57:46"
+  },
+  {
+    "name": "腾讯混元生图",
+    "url": "https://image.hunyuan.tencent.com/",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:03:24"
+  },
+  {
+    "name": "腾讯混元AI视频",
+    "url": "https://video.hunyuan.tencent.com/",
+    "showOnHome": true,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:03:30"
+  },
+  {
+    "name": "腾讯元器",
+    "url": "https://yuanqi.tencent.com/agent-shop",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:03:35"
+  },
+  {
+    "name": "扣子",
+    "url": "https://www.coze.cn/home",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:03:38"
+  },
+  {
+    "name": "智谱清言",
+    "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh",
+    "showOnHome": true,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:44:46"
+  },
+  {
+    "name": "Grok",
+    "url": "https://grok.com/?referrer=website",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:45:04"
+  },
+  {
+    "name": "绘制事物",
+    "url": "https://drawthings.ai/",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:46:34"
+  },
+  {
+    "name": "讯飞星火",
+    "url": "https://xinghuo.xfyun.cn/desk",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:47:39"
+  },
+  {
+    "name": "Suno",
+    "url": "https://suno.com/",
+    "showOnHome": true,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:51:15"
+  },
+  {
+    "name": "DeepSeek",
+    "url": "https://www.deepseek.com/",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:53:16"
+  },
+  {
+    "name": "豆包",
+    "url": "https://www.doubao.com/chat/?channel=w3c&source=hw_db_w3c",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:14:44"
+  },
+  {
+    "name": "阶跃AI",
+    "url": "https://yuewen.cn/chats/new?utm_source=ai-bot.cn",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "https://yuewen.cn/svg/favicon.svg",
+    "description": "添加时间: 2025/3/22 20:14:54"
+  },
+  {
+    "name": "秘塔写作猫",
+    "url": "https://xiezuocat.com/",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:16:16"
+  },
+  {
+    "name": "通义星尘",
+    "url": "https://tongyi.aliyun.com/xingchen/?utm_source=ai-bot.cn",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "https://img.alicdn.com/imgextra/i3/O1CN01Kw0e4l1csxP0Rfxw7_!!6000000003657-2-tps-512-512.png",
+    "description": "添加时间: 2025/3/22 20:16:25"
+  },
+  {
+    "name": "问小白",
+    "url": "https://www.wenxiaobai.com/chat/200006",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:16:48"
+  },
+  {
+    "name": "MOKI",
+    "url": "https://www.moki.cn/ai-animation/home",
+    "showOnHome": false,
+    "category": "人工智能",
+    "icon": "https://www.moki.cn/_moki_static/_next/static/media/favicon-32x32.d9f952bd.png",
+    "description": "添加时间: 2025/3/22 21:55:59"
+  },
+  {
+    "name": "星流 - 新一代AI创作工具",
+    "url": "https://www.xingliu.art/",
+    "showOnHome": true,
+    "category": "人工智能",
+    "icon": "",
+    "description": "添加时间: 2025/4/3 00:17:50"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/",
+    "showOnHome": true,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:55:15"
+  },
+  {
+    "name": "Gitee",
+    "url": "https://gitee.com/",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:55:24"
+  },
+  {
+    "name": "Trae",
+    "url": "https://www.trae.ai/",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:56:52"
+  },
+  {
+    "name": "Trae CN",
+    "url": "https://www.trae.com.cn/download",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:57:00"
+  },
+  {
+    "name": "Cursor",
+    "url": "https://www.cursor.com/",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:57:17"
+  },
+  {
+    "name": "腾讯CODING",
+    "url": "https://coding.net/",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 19:58:28"
+  },
+  {
+    "name": "影刀RPA",
+    "url": "https://www.yingdao.com/",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "https://winrobot-pub-a-oss.winrobot360.com/static/home/favicon.ico",
+    "description": "添加时间: 2025/3/22 20:17:40"
+  },
+  {
+    "name": "码上飞",
+    "url": "https://www.codeflying.net/?utm_source=ai-bot.cn",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:19:12"
+  },
+  {
+    "name": "豆包 MarsCode",
+    "url": "https://www.marscode.cn/?utm_source=advertising&utm_medium=aibot.cn_ug_cpa&utm_term=hw_marscode_aibot&utm_content=home",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:21:15"
+  },
+  {
+    "name": "小浣熊AI智能助手",
+    "url": "https://www.xiaohuanxiong.com/code",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:21:36"
+  },
+  {
+    "name": "v0.dev 无代码AI开发",
+    "url": "https://v0.dev/",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2024/12/21 13:58:35"
+  },
+  {
+    "name": "HelpLook",
+    "url": "https://www.helplook.net/",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2024/12/21 13:39:53"
+  },
+  {
+    "name": "OpenRouter",
+    "url": "https://openrouter.ai/",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "",
+    "description": "添加时间: 2025/3/27 22:51:14"
+  },
+  {
+    "name": "Dify.AI",
+    "url": "https://dify.ai/zh",
+    "showOnHome": false,
+    "category": "开发平台",
+    "icon": "https://framerusercontent.com/images/KWDRAMQLGjoMFBAjNjoCFMP7XI.png",
+    "description": "添加时间: 2025/3/28 04:17:54"
+  },
+  {
+    "name": "阿里云",
+    "url": "https://www.aliyun.com/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+    "description": "添加时间: 2025/3/22 20:05:58"
+  },
+  {
+    "name": "腾讯云",
+    "url": "https://cloud.tencent.com/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:06:09"
+  },
+  {
+    "name": "华为云",
+    "url": "https://www.huaweicloud.com/?abv=2025031217370852",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:06:15"
+  },
+  {
+    "name": "七牛云",
+    "url": "https://www.qiniu.com/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:06:23"
+  },
+  {
+    "name": "RAKsmart",
+    "url": "https://cn.raksmart.com/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:06:29"
+  },
+  {
+    "name": "Hostwinds",
+    "url": "https://www.hostwinds.com/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:06:42"
+  },
+  {
+    "name": "NameSilo",
+    "url": "https://www.namesilo.com/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:06:51"
+  },
+  {
+    "name": "DNSPod",
+    "url": "https://www.dnspod.cn/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:07:01"
+  },
+  {
+    "name": "HostEase",
+    "url": "https://manage.hostease.com/index.php",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:46:06"
+  },
+  {
+    "name": "Lightlayer",
+    "url": "https://account.lightlayer.net/index.php?/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:47:10"
+  },
+  {
+    "name": "Hostinger",
+    "url": "https://www.hostinger.com/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:47:34"
+  },
+  {
+    "name": "Sharktech",
+    "url": "https://sharktech.net/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:47:55"
+  },
+  {
+    "name": "Vultr",
+    "url": "https://www.vultr.com/",
+    "showOnHome": false,
+    "category": "主机域名",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:48:02"
+  },
+  {
+    "name": "Canva可画",
+    "url": "https://www.canva.cn/create/",
+    "showOnHome": false,
+    "category": "云端服务",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:11:44"
+  },
+  {
+    "name": "即速应用",
+    "url": "https://www.jisuapp.cn/index.php?r=pc/index/AppHome",
+    "showOnHome": false,
+    "category": "云端服务",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:11:54"
+  },
+  {
+    "name": "PP匠",
+    "url": "http://www.ppj.io/",
+    "showOnHome": false,
+    "category": "云端服务",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:44:00"
+  },
+  {
+    "name": "飞书",
+    "url": "https://www.feishu.cn/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:23:24"
+  },
+  {
+    "name": "钉钉·个人版",
+    "url": "https://workspace.dingtalk.com/welcome?utm_source=ai-bot.cn",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:23:36"
+  },
+  {
+    "name": "企业微信",
+    "url": "https://work.weixin.qq.com/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:23:45"
+  },
+  {
+    "name": "Notion",
+    "url": "https://www.notion.com/zh-cn/product",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:25:09"
+  },
+  {
+    "name": "FlowUS",
+    "url": "https://flowus.cn/8176ee28-816b-4fc1-8e3e-f72c6cbbe76c",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "https://cdn2.flowus.cn/fe-web-app-images/favicon.png",
+    "description": "添加时间: 2025/3/22 20:25:28"
+  },
+  {
+    "name": "金山WPS",
+    "url": "https://www.wps.cn/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:27:33"
+  },
+  {
+    "name": "腾讯文档",
+    "url": "https://docs.qq.com/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:28:45"
+  },
+  {
+    "name": "Google 文档",
+    "url": "https://workspace.google.com/intl/zh-CN/products/docs/",
+    "showOnHome": true,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:28:54"
+  },
+  {
+    "name": "石墨文档",
+    "url": "https://shimo.im/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:29:05"
+  },
+  {
+    "name": "金山文档",
+    "url": "https://www.kdocs.cn/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:29:11"
+  },
+  {
+    "name": "讯飞文档",
+    "url": "https://iflydocs.com/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:29:35"
+  },
+  {
+    "name": "超级文档",
+    "url": "https://sdocapp.com/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:32:14"
+  },
+  {
+    "name": "有道云笔记",
+    "url": "https://note.youdao.com/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:32:19"
+  },
+  {
+    "name": "ONLYOFFICE",
+    "url": "https://www.onlyoffice.com/zh/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:32:47"
+  },
+  {
+    "name": "语雀",
+    "url": "https://www.yuque.com/",
+    "showOnHome": true,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:32:53"
+  },
+  {
+    "name": "ima.copilot",
+    "url": "https://ima.qq.com/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 13:04:19"
+  },
+  {
+    "name": "Obsidian",
+    "url": "https://obsidian.md/",
+    "showOnHome": false,
+    "category": "数字办公",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:36:38"
+  },
+  {
+    "name": "蓝奏·云",
+    "url": "https://www.lanzou.com/",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:38:58"
+  },
+  {
+    "name": "阿里云盘",
+    "url": "https://www.alipan.com/",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:39:15"
+  },
+  {
+    "name": "坚果云",
+    "url": "https://www.jianguoyun.com/",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:39:20"
+  },
+  {
+    "name": "天翼云盘",
+    "url": "https://cloud.189.cn/web/login.html",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:39:25"
+  },
+  {
+    "name": "百度网盘",
+    "url": "https://pan.baidu.com/",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:39:30"
+  },
+  {
+    "name": "华为云空间",
+    "url": "https://cloud.huawei.com/",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:39:35"
+  },
+  {
+    "name": "iCloud",
+    "url": "https://www.icloud.com/",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:39:41"
+  },
+  {
+    "name": "123云盘",
+    "url": "https://www.123pan.com/",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "https://statics.123957.com/static/favicon.ico",
+    "description": "添加时间: 2025/3/22 20:39:44"
+  },
+  {
+    "name": "vivo云服务",
+    "url": "https://yun.vivo.com.cn/welcome",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:39:47"
+  },
+  {
+    "name": "小米云服务",
+    "url": "https://i.mi.com/",
+    "showOnHome": false,
+    "category": "云端存储",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:39:58"
+  },
+  {
+    "name": "SiteServer CMS",
+    "url": "https://sscms.com/",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:41:35"
+  },
+  {
+    "name": "OneNav",
+    "url": "https://www.onenav.top/",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:41:49"
+  },
+  {
+    "name": "BookStack",
+    "url": "https://www.bookstackapp.com/",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:41:58"
+  },
+  {
+    "name": "docsify",
+    "url": "https://docsify.js.org/#/",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:42:04"
+  },
+  {
+    "name": "Typecho",
+    "url": "https://typecho.org/",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:42:10"
+  },
+  {
+    "name": "JTBC CMS",
+    "url": "https://www.jtbc.cn/",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:42:16"
+  },
+  {
+    "name": "VuePress",
+    "url": "https://vuepress.vuejs.org/zh/",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:43:45"
+  },
+  {
+    "name": "Vue3VideoPlay",
+    "url": "https://xdlumia.github.io/",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:43:57"
+  },
+  {
+    "name": "ProxySU",
+    "url": "https://github.com/proxysu/ProxySU",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:45:44"
+  },
+  {
+    "name": "思通数科",
+    "url": "https://gitee.com/stonedtx",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:44:33"
+  },
+  {
+    "name": "FreeReNamer",
+    "url": "https://github.com/cyhuajuan/FreeReNamer",
+    "showOnHome": false,
+    "category": "开源项目",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:59:54"
+  },
+  {
+    "name": "Chrome",
+    "url": "https://www.google.cn/chrome/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "https://www.google.cn/chrome/static/images/favicons/favicon-32x32.png",
+    "description": "添加时间: 2025/3/22 20:47:07"
+  },
+  {
+    "name": "Chevereto",
+    "url": "https://chevereto.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:48:08"
+  },
+  {
+    "name": "SwitchKey",
+    "url": "https://jinyu.li/switchkey/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:50:24"
+  },
+  {
+    "name": "火绒安全",
+    "url": "https://www.huorong.cn/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:50:39"
+  },
+  {
+    "name": "Tabby",
+    "url": "https://tabby.sh/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "https://tabby.sh/41c0b2191a91f83bee77.png",
+    "description": "添加时间: 2025/3/22 20:50:43"
+  },
+  {
+    "name": "金山毒霸",
+    "url": "https://www.ijinshan.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:50:51"
+  },
+  {
+    "name": "QQ浏览器",
+    "url": "https://browser.qq.com/mac/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:50:58"
+  },
+  {
+    "name": "Opera",
+    "url": "https://www.opera.com/zh-cn",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:51:21"
+  },
+  {
+    "name": "Mozilla",
+    "url": "https://www.mozilla.org/zh-CN/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:51:29"
+  },
+  {
+    "name": "Affinity",
+    "url": "https://affinity.serif.com/en-gb/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:53:06"
+  },
+  {
+    "name": "Adobe",
+    "url": "https://www.adobe.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:53:32"
+  },
+  {
+    "name": "FinalShell",
+    "url": "https://www.hostbuf.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 20:58:03"
+  },
+  {
+    "name": "Hyper™",
+    "url": "https://hyper.is/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:00:02"
+  },
+  {
+    "name": "OBS",
+    "url": "https://obsproject.com/zh-cn",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:01:20"
+  },
+  {
+    "name": "Appstorrent",
+    "url": "https://appstorrent.ru/programs/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:02:51"
+  },
+  {
+    "name": "史蒂芬周的博客",
+    "url": "https://www.sdifen.com/",
+    "showOnHome": true,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:03:39"
+  },
+  {
+    "name": "App热",
+    "url": "https://apphot.cc/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:03:46"
+  },
+  {
+    "name": "Sublime Text",
+    "url": "https://www.sublimetext.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:04:49"
+  },
+  {
+    "name": "Visual Studio Code",
+    "url": "https://code.visualstudio.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:04:56"
+  },
+  {
+    "name": "微信",
+    "url": "https://weixin.qq.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico",
+    "description": "添加时间: 2025/3/22 21:14:51"
+  },
+  {
+    "name": "QQ",
+    "url": "https://im.qq.com/index/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:15:11"
+  },
+  {
+    "name": "Typora",
+    "url": "https://typoraio.cn/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:25:26"
+  },
+  {
+    "name": "iH5.cn",
+    "url": "https://www.ih5.cn/not-logged-in",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:25:56"
+  },
+  {
+    "name": "uTools官网",
+    "url": "https://www.u-tools.cn/index.html",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:40:40"
+  },
+  {
+    "name": "万彩办公大师",
+    "url": "https://www.wofficebox.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:40:56"
+  },
+  {
+    "name": "Quicker软件",
+    "url": "https://getquicker.net/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:41:03"
+  },
+  {
+    "name": "夸克",
+    "url": "https://www.quark.cn/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:48:51"
+  },
+  {
+    "name": "ToDesk",
+    "url": "https://www.todesk.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 22:00:15"
+  },
+  {
+    "name": "Sourcetree",
+    "url": "https://www.sourcetreeapp.com/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 22:00:47"
+  },
+  {
+    "name": "PixPin",
+    "url": "https://pixpin.cn/",
+    "showOnHome": false,
+    "category": "软件官网",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 22:01:02"
+  },
+  {
+    "name": "微博",
+    "url": "https://weibo.com/",
+    "showOnHome": true,
+    "category": "社交网络",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:14:42"
+  },
+  {
+    "name": "微信网页版",
+    "url": "https://wx.qq.com/",
+    "showOnHome": false,
+    "category": "社交网络",
+    "icon": "https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico",
+    "description": "添加时间: 2025/3/22 21:15:04"
+  },
+  {
+    "name": "QQ空间",
+    "url": "https://qzone.qq.com/",
+    "showOnHome": false,
+    "category": "社交网络",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:15:21"
+  },
+  {
+    "name": "百度贴吧",
+    "url": "https://tieba.baidu.com/",
+    "showOnHome": false,
+    "category": "社交网络",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:15:31"
+  },
+  {
+    "name": "抖音",
+    "url": "https://www.douyin.com/discover",
+    "showOnHome": false,
+    "category": "社交网络",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:15:36"
+  },
+  {
+    "name": "X",
+    "url": "https://x.com/",
+    "showOnHome": true,
+    "category": "社交网络",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:15:47"
+  },
+  {
+    "name": "快手",
+    "url": "https://www.kuaishou.com/new-reco",
+    "showOnHome": false,
+    "category": "社交网络",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:15:53"
+  },
+  {
+    "name": "哔哩哔哩",
+    "url": "https://www.bilibili.com/",
+    "showOnHome": false,
+    "category": "社交网络",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:26:42"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://telegram.org/",
+    "showOnHome": true,
+    "category": "社交网络",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 22:00:31"
+  },
+  {
+    "name": "Normalize.css",
+    "url": "https://necolas.github.io/normalize.css/",
+    "showOnHome": false,
+    "category": "前端开发",
+    "icon": "https://necolas.github.io/normalize.css/favicon.ico",
+    "description": "添加时间: 2025/3/22 21:17:05"
+  },
+  {
+    "name": "Vue.js",
+    "url": "https://cn.vuejs.org/",
+    "showOnHome": false,
+    "category": "前端开发",
+    "icon": "https://cn.vuejs.org/logo.svg",
+    "description": "添加时间: 2025/3/22 21:18:58"
+  },
+  {
+    "name": "Tailwind CSS",
+    "url": "https://tailwindcss.com/",
+    "showOnHome": false,
+    "category": "前端开发",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:19:15"
+  },
+  {
+    "name": "daisyUI",
+    "url": "https://daisyui.com/",
+    "showOnHome": false,
+    "category": "前端开发",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:19:26"
+  },
+  {
+    "name": "Windi CSS",
+    "url": "https://windicss.org/",
+    "showOnHome": false,
+    "category": "前端开发",
+    "icon": "https://windicss.org/assets/logo.svg",
+    "description": "添加时间: 2025/3/22 21:19:41"
+  },
+  {
+    "name": "Feather",
+    "url": "https://feathericons.com/",
+    "showOnHome": false,
+    "category": "前端开发",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:19:53"
+  },
+  {
+    "name": "Pure",
+    "url": "https://pure-css.github.io/",
+    "showOnHome": false,
+    "category": "前端开发",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:20:38"
+  },
+  {
+    "name": "MasterGo",
+    "url": "https://mastergo.com/",
+    "showOnHome": false,
+    "category": "前端开发",
+    "icon": "",
+    "description": "添加时间: 2025/3/25 22:54:47"
+  },
+  {
+    "name": "即时设计",
+    "url": "https://js.design/workspace",
+    "showOnHome": false,
+    "category": "前端开发",
+    "icon": "",
+    "description": "添加时间: 2025/3/25 22:55:18"
+  },
+  {
+    "name": "字由",
+    "url": "https://www.hellofont.cn/home",
+    "showOnHome": false,
+    "category": "资源共享",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:23:07"
+  },
+  {
+    "name": "GavickPro",
+    "url": "https://www.gavick.com/",
+    "showOnHome": false,
+    "category": "资源共享",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:23:29"
+  },
+  {
+    "name": "uiGradients",
+    "url": "https://uigradients.com/#Politics",
+    "showOnHome": false,
+    "category": "在线工具",
+    "icon": "https://uigradients.com/static/images/favicon-32x32.png",
+    "description": "添加时间: 2025/3/22 21:25:07"
+  },
+  {
+    "name": "Ping",
+    "url": "https://www.ping.pe/",
+    "showOnHome": false,
+    "category": "在线工具",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:28:04"
+  },
+  {
+    "name": "HexEd.it",
+    "url": "https://hexed.it/",
+    "showOnHome": false,
+    "category": "在线工具",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:29:20"
+  },
+  {
+    "name": "IPChecker检查IP",
+    "url": "https://www.vps234.com/ipchecker/",
+    "showOnHome": false,
+    "category": "在线工具",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:29:28"
+  },
+  {
+    "name": "VVLoad Cloud",
+    "url": "https://vvload.com/",
+    "showOnHome": false,
+    "category": "在线工具",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:29:37"
+  },
+  {
+    "name": "混音助手",
+    "url": "http://yinlvwu.com/hyzs/",
+    "showOnHome": false,
+    "category": "在线工具",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:30:08"
+  },
+  {
+    "name": "Gmail",
+    "url": "https://mail.google.com/mail/u/0/#inbox",
+    "showOnHome": true,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:33:05"
+  },
+  {
+    "name": "Outlook",
+    "url": "https://outlook.live.com/mail/0/",
+    "showOnHome": true,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:33:15"
+  },
+  {
+    "name": "QQ邮箱",
+    "url": "https://wx.mail.qq.com/?cancel_login=true&from=get_ticket_fail",
+    "showOnHome": true,
+    "category": "网络邮箱",
+    "icon": "https://mail.qq.com/zh_CN/htmledition/images/favicon/qqmail_favicon_32h.png",
+    "description": "添加时间: 2025/3/22 21:33:23"
+  },
+  {
+    "name": "TOM邮箱",
+    "url": "https://mail.tom.com/",
+    "showOnHome": false,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:33:29"
+  },
+  {
+    "name": "阿里邮箱",
+    "url": "https://mail.aliyun.com/",
+    "showOnHome": false,
+    "category": "网络邮箱",
+    "icon": "https://mail.aliyun.com/static/0.2.8/images/favicon.ico",
+    "description": "添加时间: 2025/3/22 21:33:46"
+  },
+  {
+    "name": "新浪邮箱",
+    "url": "https://mail.sina.com.cn/",
+    "showOnHome": false,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:34:01"
+  },
+  {
+    "name": "网易免费邮",
+    "url": "https://mail.163.com/",
+    "showOnHome": false,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:34:08"
+  },
+  {
+    "name": "搜狐邮箱",
+    "url": "https://mail.sohu.com/fe/#/login",
+    "showOnHome": false,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:34:21"
+  },
+  {
+    "name": "Yahoo",
+    "url": "https://login.yahoo.com/?.src=ym&lang=zh-CN&done=https%3A%2F%2Fmail.yahoo.com%2F",
+    "showOnHome": false,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:37:19"
+  },
+  {
+    "name": "Yandex Mail",
+    "url": "https://360.yandex.com/mail/",
+    "showOnHome": false,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:37:45"
+  },
+  {
+    "name": "Proton Mail",
+    "url": "https://proton.me/mail",
+    "showOnHome": true,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:37:59"
+  },
+  {
+    "name": "Zoho Mail",
+    "url": "https://www.zoho.com/mail/",
+    "showOnHome": false,
+    "category": "网络邮箱",
+    "icon": "",
+    "description": "添加时间: 2025/3/22 21:38:08"
+  }
+]
