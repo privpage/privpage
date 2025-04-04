@@ -2,10 +2,6 @@
  * 主题切换功能模块
  */
 
-// 添加标志变量，防止重复初始化
-let themeInitialized = false;
-let themeDialogOpen = false;
-
 // 获取当前主题
 function getCurrentTheme() {
   return localStorage.getItem('theme') || 'light';

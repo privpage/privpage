@@ -238,6 +238,9 @@ function initApp() {
   // 初始化侧边栏（在链接生成后初始化，以确保分类可以正确折叠）
   initSidebar();
   
+  // 初始化主题
+  initTheme();
+  
   // 初始化用户配置
   initUserConfig();
   
