@@ -238,7 +238,7 @@ function initApp() {
   // 初始化侧边栏（在链接生成后初始化，以确保分类可以正确折叠）
   initSidebar();
   
-  // 初始化主题
+  // 初始化主题 - theme.js中已有防止重复初始化的逻辑
   initTheme();
   
   // 初始化用户配置
@@ -274,8 +274,8 @@ function initApp() {
   console.log('应用初始化完成');
 }
 
-// 当页面DOM加载完成后初始化应用
-document.addEventListener('DOMContentLoaded', initApp);
+// 当页面DOM加载完成后初始化应用，使用 { once: true } 确保只执行一次
+document.addEventListener('DOMContentLoaded', initApp, { once: true });
 
 // 导出函数，以便在其他模块中使用
 export { initApp, clearLocalData }; 

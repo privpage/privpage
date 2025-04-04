@@ -2,6 +2,11 @@
  * 主题切换功能模块
  */
 
+// 添加标志变量，防止重复初始化
+let themeInitialized = false;
+let themeDialogOpen = false;
+let themeJustSelected = false;
+
 // 获取当前主题
 function getCurrentTheme() {
   return localStorage.getItem('theme') || 'light';
@@ -55,8 +60,24 @@ function toggleTheme() {
   setTheme(newTheme);
 }
 
+// 关闭主题选择对话框
+function closeThemeDialog() {
+  const overlay = document.querySelector('.theme-selector-overlay');
+  const dialog = document.querySelector('.theme-selector-dialog');
+  
+  if (overlay && dialog) {
+    document.body.removeChild(overlay);
+    document.body.removeChild(dialog);
+    themeDialogOpen = false;
+  }
+}
+
 // 显示主题选择提示框
 function showThemeSelector() {
+  // 如果对话框已经打开或刚刚选择了主题，则不重复显示
+  if (themeDialogOpen || themeJustSelected) return;
+  themeDialogOpen = true;
+  
   // 创建遮罩层
   const overlay = document.createElement('div');
   overlay.className = 'theme-selector-overlay';
@@ -116,17 +137,27 @@ function showThemeSelector() {
   
   // 添加点击事件
   lightOption.addEventListener('click', () => {
-    setTheme('light');
+    // 立即设置标志，防止重复显示对话框
+    themeJustSelected = true;
     localStorage.setItem('themeSelected', 'true');
-    document.body.removeChild(overlay);
-    document.body.removeChild(dialog);
+    
+    // 设置主题
+    setTheme('light');
+    
+    // 关闭对话框
+    closeThemeDialog();
   });
   
   darkOption.addEventListener('click', () => {
-    setTheme('dark');
+    // 立即设置标志，防止重复显示对话框
+    themeJustSelected = true;
     localStorage.setItem('themeSelected', 'true');
-    document.body.removeChild(overlay);
-    document.body.removeChild(dialog);
+    
+    // 设置主题
+    setTheme('dark');
+    
+    // 关闭对话框
+    closeThemeDialog();
   });
   
   // 组装对话框
@@ -146,12 +177,21 @@ function showThemeSelector() {
 
 // 初始化主题
 function initTheme() {
+  // 防止重复初始化
+  if (themeInitialized) return;
+  themeInitialized = true;
+  
   // 检查是否是首次访问（是否已经选择过主题）
   const hasSelectedTheme = localStorage.getItem('themeSelected');
   
   if (!hasSelectedTheme) {
     // 首次访问，显示主题选择提示框
-    showThemeSelector();
+    // 使用较长的延时确保DOM和其他初始化已完成
+    setTimeout(() => {
+      if (!themeJustSelected) {
+        showThemeSelector();
+      }
+    }, 500);
   } else {
     // 从本地存储中读取主题设置
     const savedTheme = localStorage.getItem('theme');
@@ -178,8 +218,8 @@ function initTheme() {
   }
 }
 
-// 页面加载完成后初始化
-document.addEventListener('DOMContentLoaded', initTheme);
+// 确保只有一个DOMContentLoaded事件监听器，并使用 { once: true } 选项
+document.addEventListener('DOMContentLoaded', initTheme, { once: true });
 
 // 导出函数，以便在其他模块中使用
 export { getCurrentTheme, setTheme, toggleTheme, initTheme, showThemeSelector };
